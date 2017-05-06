@@ -1,0 +1,195 @@
+fileFormatVersion: 2
+guid: eccfa3af5f6e8f948a842420c7e16608
+timeCreated: 1493488737
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: cab_door
+    100002: cab_door 1
+    100004: cabinet
+    100006: //RootNode
+    100008: cabinet_door
+    100010: cabinet_door1
+    100012: drawer
+    100014: drawer 1
+    100016: drawer 2
+    100018: drawer 3
+    100020: drawer 4
+    100022: drawer1
+    100024: drawer2
+    100026: drawer3
+    100028: drawer4
+    100030: drawer5
+    100032: drawer6
+    100034: drawer7
+    100036: knob
+    100038: knob 1
+    100040: knob1
+    100042: knob1 1
+    100044: knob1 2
+    100046: knob1 3
+    100048: knob2
+    100050: knob3
+    100052: knob4
+    100054: knob5
+    400000: cab_door
+    400002: cab_door 1
+    400004: //RootNode
+    400006: cabinet
+    400008: cabinet_door
+    400010: cabinet_door1
+    400012: drawer
+    400014: drawer 1
+    400016: drawer 2
+    400018: drawer 3
+    400020: drawer 4
+    400022: drawer1
+    400024: drawer2
+    400026: drawer3
+    400028: drawer4
+    400030: drawer5
+    400032: drawer6
+    400034: drawer7
+    400036: knob
+    400038: knob 1
+    400040: knob1
+    400042: knob1 1
+    400044: knob1 2
+    400046: knob1 3
+    400048: knob2
+    400050: knob3
+    400052: knob4
+    400054: knob5
+    2300000: cab_door
+    2300002: cab_door 1
+    2300004: cabinet
+    2300006: drawer 1
+    2300008: drawer 2
+    2300010: drawer 3
+    2300012: drawer 4
+    2300014: drawer4
+    2300016: drawer5
+    2300018: drawer6
+    2300020: drawer7
+    2300022: knob
+    2300024: knob 1
+    2300026: knob1
+    2300028: knob1 1
+    2300030: knob1 2
+    2300032: knob1 3
+    2300034: knob2
+    2300036: knob3
+    2300038: knob4
+    2300040: knob5
+    3300000: cab_door
+    3300002: cab_door 1
+    3300004: cabinet
+    3300006: drawer 1
+    3300008: drawer 2
+    3300010: drawer 3
+    3300012: drawer 4
+    3300014: drawer4
+    3300016: drawer5
+    3300018: drawer6
+    3300020: drawer7
+    3300022: knob
+    3300024: knob 1
+    3300026: knob1
+    3300028: knob1 1
+    3300030: knob1 2
+    3300032: knob1 3
+    3300034: knob2
+    3300036: knob3
+    3300038: knob4
+    3300040: knob5
+    4300000: cabinet
+    4300002: drawer
+    4300004: knob1
+    4300006: drawer5
+    4300008: knob3
+    4300010: drawer6
+    4300012: knob4
+    4300014: drawer7
+    4300016: knob5
+    4300018: cab_door
+    4300020: knob
+    4300022: cab_door
+    4300024: knob
+    4300026: drawer
+    4300028: knob1
+    4300030: drawer4
+    4300032: knob2
+    4300034: drawer
+    4300036: knob1
+    4300038: drawer
+    4300040: knob1
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
